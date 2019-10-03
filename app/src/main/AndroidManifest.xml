@@ -4,6 +4,7 @@
     <uses-feature android:name="android.hardware.camera"
                   android:required="true" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET"/>
 
     <application
             android:allowBackup="true"
@@ -19,6 +20,7 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
+        <activity android:name=".PutImageFile"/>
         <provider
                 android:name="android.support.v4.content.FileProvider"
                 android:authorities="com.example.android.fileprovider"
