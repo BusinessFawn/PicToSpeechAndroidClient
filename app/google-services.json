@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "218592178011",
+    "firebase_url": "https://pictotext.firebaseio.com",
+    "project_id": "pictotext",
+    "storage_bucket": "pictotext.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218592178011:android:0e68aa65c25add14",
+        "android_client_info": {
+          "package_name": "xyz.a4tay.pictospeech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218592178011-sbc4b55pg497ml148s7tr091e5nv7slb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZNmc6JD0xaRjZhMcEpXvGPmLoZWQt41w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
